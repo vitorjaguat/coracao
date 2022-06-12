@@ -1,0 +1,1 @@
+alert("Bom dia, Antílope lindo! Passe o mouse nas bolinhas pra achar uma mensagem...")

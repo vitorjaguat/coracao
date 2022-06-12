@@ -1,0 +1,32 @@
+.bola {
+    /* width: 31px; */
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    margin: auto;
+    flex-basis: 40px;
+    transition: all 900ms;
+    color: red;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    margin: auto;
+    /* max-height: 400px; */
+}
+
+.bola:hover {
+    background-color: rgb(179, 112, 67);
+    transform: scale(2, 2);
+    width: 39px;
+    height: 39px;
+    scale: 200;
+    box-shadow: black 0 0 20px;
+    /* filter: blur(0.3px) */
+}
+
+mnm {
+    max-height: 400px;
+}
