@@ -1,1 +1,1 @@
-alert("Bom dia, Antílope lindo! Passe o mouse nas bolinhas pra achar uma mensagem...")
+alert("Bom dia, Antílope lindo! Além de ser um antílope gostosinho e carioca, tu me dá muita alegria todo dia e uma esperança viva de encontrar o meu e o nosso lugar no mundo. Neste dia criado pelo pai do João Doria, passa o mouse nas bolinhas pra achar uma mensagem...")
