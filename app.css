@@ -21,8 +21,8 @@
 .bola:hover {
     background-color: rgb(179, 112, 67);
     transform: scale(2, 2);
-    width: 39px;
-    height: 39px;
+    /* width: 39px;
+    height: 39px; */
     /* scale: 200; */
     box-shadow: black 0 0 20px;
     /* filter: blur(0.3px) */
