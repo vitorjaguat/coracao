@@ -1,1 +1,1 @@
-alert("Bom dia, Antílope lindo! Além de ser um antílope muito lindo e carioca, tu me dá muita alegria todo dia e uma esperança viva de encontrar o meu e o nosso lugar no mundo. Neste dia criado pelo pai do João Doria, passa o mouse nas bolinhas pra achar uma mensagem...")
+alert("Bom dia, Antílope lindo! Além de ser um antílope muito lindo e carioca, tu me dá muita alegria todo dia e uma esperança viva de criar um mundo e de encontrar o meu e o nosso lugar nesse mundo. Neste dia inventado pelo pai do João Doria, passa o mouse nas bolinhas pra achar uma mensagem...")
